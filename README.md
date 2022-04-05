@@ -1,9 +1,7 @@
 
-| Image Magnifier Glass | [Live Demo](url) |
+| Image Magnifier Glass | [Live Demo](https://lana-20.github.io/image-magnifier-glass/) |
 |:--|:--|
 
-
-## Image Magnifier Glass
 
 ![image1](readme-img.png)
 
