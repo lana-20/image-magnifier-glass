@@ -5,7 +5,7 @@
 
 ## Image Magnifier Glass
 
-![image1](https://github.com/lana-20/image-comparison-slider/blob/main/readme-img.png)
+![image1](readme-img.png)
 
 In this project, I built an Image Magnifier Glass, using HTML, CSS, and JavaScript.
 Mouse over the image to initiate the magnifying glass function.
